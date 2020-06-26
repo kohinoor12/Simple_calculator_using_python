@@ -1,0 +1,7 @@
+Simple calculator using python
+
+* A project by Kohinoor Bharti
+
+# A simple calculator use to do arithmetic calculations.
+# Run the main.py file on your present python platform.
+# Install the required packages.
